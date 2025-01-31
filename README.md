@@ -20,7 +20,7 @@ Este projeto implementa um sistema de controle de LEDs simulando um semáforo ut
 4. Conecte-se ao console serial para visualizar as mensagens.
 
 ## Autor
-Nome: [Seu Nome Aqui]
+Nome: Theógenes Gabriel Araújo de Andrade
 
 ## Vídeo Demonstrativo
 Link: [Adicione aqui o link do vídeo demonstrativo]

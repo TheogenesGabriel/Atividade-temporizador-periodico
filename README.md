@@ -22,6 +22,4 @@ Este projeto implementa um sistema de controle de LEDs simulando um semáforo ut
 ## Autor
 Nome: Theógenes Gabriel Araújo de Andrade
 
-## Vídeo Demonstrativo
-Link: [Adicione aqui o link do vídeo demonstrativo]
 
